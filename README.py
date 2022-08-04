@@ -1,3 +1,15 @@
+myself = {
+	'Name' : 'Vee',
+	'Birthdate' : '2001-03-22',
+	'Status' : 'Undergradute',
+	'Interest' : 'Data',
+	'Programming SKills' : ['Python', 'SQL', 'R']
+
+}
+
+print(myself)
+
+
 class ActiveLearner:
 		def __init__(self, name, job, interest):
 				self.name = name
